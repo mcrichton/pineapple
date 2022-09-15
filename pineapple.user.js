@@ -23,6 +23,10 @@ const CSS = [
         s: "pre",
         r: `background: #f5f5f5;`
     },
+    {
+        s: ".versionmodified",
+        r: `color: red; font-weight: bold; font-size: 110%;`,
+    },
 ];
 
 (() => {
