@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pineapple-Devloader
 // @license      MIT (https://opensource.org/licenses/MIT)
-// @version      1.0.0
+// @version      1.1.0
 // @match        https://docs.python.org/*/*
 // @run-at       document-end
 // ==/UserScript==
